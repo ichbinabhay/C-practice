@@ -12,4 +12,4 @@ int main(){
     int e=5*(2/2)*3;
     printf("%d \n", e);
     return 0;
-} 
+}
