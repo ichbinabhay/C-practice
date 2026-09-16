@@ -3,7 +3,8 @@
 int main(){
     int i;
     printf("enter the number");
-    scanf("%d \n",&i);
+    scanf("%d",&i);
+
     for(int n=1;n<=10;n++){
         printf("%d\n", i*n);
     }
