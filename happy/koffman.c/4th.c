@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&side);
     printf("the side of square is %d\n",side);
     area=side*side;
-    printf("area of square%d\n",area);
+    printf("area of square whose side is %d %d\n",side,area);
     return 0;
 
 }
